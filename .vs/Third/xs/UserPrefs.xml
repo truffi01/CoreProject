@@ -3,7 +3,12 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Third" expanded="True" />
+          <Node name="Third" expanded="True">
+            <Node name="Third" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
