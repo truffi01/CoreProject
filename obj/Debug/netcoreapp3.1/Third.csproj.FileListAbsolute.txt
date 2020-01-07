@@ -394,7 +394,5 @@
 /Users/thomasruffino/ASPNETCORE/Third/obj/Debug/netcoreapp3.1/Third.csproj.CopyComplete
 /Users/thomasruffino/ASPNETCORE/Third/obj/Debug/netcoreapp3.1/Third.dll
 /Users/thomasruffino/ASPNETCORE/Third/obj/Debug/netcoreapp3.1/Third.pdb
-/Users/thomasruffino/ASPNETCORE/Third/bin/Debug/netcoreapp3.1/Four/obj/Four.csproj.nuget.dgspec.json
-/Users/thomasruffino/ASPNETCORE/Third/bin/Debug/netcoreapp3.1/Four/obj/project.assets.json
 /Users/thomasruffino/ASPNETCORE/Third/bin/Debug/netcoreapp3.1/Pack/obj/Pack.csproj.nuget.dgspec.json
 /Users/thomasruffino/ASPNETCORE/Third/bin/Debug/netcoreapp3.1/Pack/obj/project.assets.json
