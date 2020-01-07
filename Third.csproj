@@ -9,6 +9,9 @@
   <ItemGroup>
     <None Remove="Four\obj\Debug\netcoreapp3.0\Four.assets.cache" />
     <None Remove="Pack\obj\Debug\netcoreapp3.0\Pack.assets.cache" />
+    <None Remove="Four\obj\Four.csproj.nuget.g.props" />
+    <None Remove="Four\obj\Four.csproj.nuget.cache" />
+    <None Remove="Four\obj\Four.csproj.nuget.g.targets" />
   </ItemGroup>
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
@@ -35,5 +38,9 @@
     <Folder Include="Pages\Admin\" />
     <Folder Include="Pages\Customer\Home\" />
     <Folder Include="Pages\Customer\Cart\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Four\obj\Four.csproj.nuget.dgspec.json" />
+    <Content Remove="Four\obj\project.assets.json" />
   </ItemGroup>
 </Project>

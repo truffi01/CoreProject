@@ -13,9 +13,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Migrations\" />
-    <Folder Include="Initializer\" />
-    <Folder Include="Repository\" />
-    <Folder Include="Repository\IRepository\" />
+    <Folder Include="Data\" />
+    <Folder Include="Data\Initializer\" />
+    <Folder Include="Data\Repository\" />
+    <Folder Include="Data\Repository\IRepo\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Migrations\00000000000000_CreateIdentitySchema.cs" />
