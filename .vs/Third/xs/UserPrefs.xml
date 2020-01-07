@@ -1,8 +1,5 @@
 ﻿<Properties StartupConfiguration="{F6351335-463D-4F4C-A9D5-7347BD8DCF2E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/Data/Repository/Repository.cs">
-    <Files>
-      <File FileName="DataAccess/Data/Repository/Repository.cs" Line="6" Column="37" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -10,10 +7,14 @@
             <Node name="DataAccess" expanded="True">
               <Node name="Data" expanded="True">
                 <Node name="Repository" expanded="True">
-                  <Node name="IRepo" expanded="True" />
-                  <Node name="Repository.cs" selected="True" />
+                  <Node name="IRepo" expanded="True">
+                    <Node name="ICategoryRepository.cs" selected="True" />
+                  </Node>
                 </Node>
               </Node>
+            </Node>
+            <Node name="Third" expanded="True">
+              <Node name="DataAccess" expanded="True" />
             </Node>
           </Node>
         </State>
