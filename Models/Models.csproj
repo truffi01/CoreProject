@@ -11,4 +11,7 @@
   <ItemGroup>
     <Folder Include="ViewModels\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
 </Project>

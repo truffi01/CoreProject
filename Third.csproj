@@ -7,6 +7,10 @@
 
 
   <ItemGroup>
+    <None Remove="Four\obj\Debug\netcoreapp3.0\Four.assets.cache" />
+    <None Remove="Pack\obj\Debug\netcoreapp3.0\Pack.assets.cache" />
+  </ItemGroup>
+  <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
   </ItemGroup>
 
@@ -22,6 +26,8 @@
 
   <ItemGroup>
     <Compile Remove="DataAccess\Migrations\00000000000000_CreateIdentitySchema.Designer.cs" />
+    <Compile Remove="Four\Class1.cs" />
+    <Compile Remove="Pack\Class1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DataAccess\Migrations\" />
